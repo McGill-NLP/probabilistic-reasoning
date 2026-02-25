@@ -1,0 +1,23 @@
+# Core scientific computing
+numpy>=2.0.0
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Plotting
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# API clients for LLM inference
+openai>=1.105.0
+anthropic>=0.66.0
+google-genai>=1.35.0
+together>=1.4.0
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.32.0
+
+# Jupyter notebook support
+ipykernel>=6.29.0
+ipython>=8.18.0
+jupyter-client>=8.6.0

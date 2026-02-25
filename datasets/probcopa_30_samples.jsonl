@@ -1,0 +1,30 @@
+{"UID":11,"original_id":662,"premise":"I encountered an old friend.","hypothesis":"I revealed a secret to him.","asks-for":"effect","hard_label":0}
+{"UID":21,"original_id":866,"premise":"I looked into the sun.","hypothesis":"The sun tanned my skin.","asks-for":"effect","hard_label":0}
+{"UID":25,"original_id":517,"premise":"I poured the water into the glass.","hypothesis":"The water quenched my thirst.","asks-for":"effect","hard_label":0}
+{"UID":28,"original_id":583,"premise":"I pulled the drain plug in the bathtub.","hypothesis":"The water drained out of the tub.","asks-for":"effect","hard_label":1}
+{"UID":37,"original_id":938,"premise":"I squeezed the lemon wedge.","hypothesis":"The lemon squirted.","asks-for":"effect","hard_label":1}
+{"UID":43,"original_id":784,"premise":"I was furious.","hypothesis":"I slammed the door upon leaving the house.","asks-for":"effect","hard_label":1}
+{"UID":50,"original_id":562,"premise":"The accountant mismanaged the company's funds.","hypothesis":"She was fired from her position.","asks-for":"effect","hard_label":1}
+{"UID":60,"original_id":876,"premise":"The bird flapped its wings.","hypothesis":"It ascended upwards.","asks-for":"effect","hard_label":1}
+{"UID":64,"original_id":961,"premise":"The boy studied all night.","hypothesis":"He passed the exam.","asks-for":"effect","hard_label":1}
+{"UID":71,"original_id":768,"premise":"The businessman's credit card got declined.","hypothesis":"He wrote an IOU.","asks-for":"effect","hard_label":0}
+{"UID":77,"original_id":555,"premise":"The child complained that he had to go to the bathroom.","hypothesis":"His father stopped the car at a gas station.","asks-for":"effect","hard_label":1}
+{"UID":78,"original_id":823,"premise":"The child landed on the trampoline.","hypothesis":"She decided to try to do a flip.","asks-for":"effect","hard_label":0}
+{"UID":79,"original_id":823,"premise":"The child landed on the trampoline.","hypothesis":"She sprung back up into the air.","asks-for":"effect","hard_label":1}
+{"UID":91,"original_id":942,"premise":"The father caught his son lying.","hypothesis":"The father trusted his son.","asks-for":"effect","hard_label":0}
+{"UID":96,"original_id":979,"premise":"The girl looked pale.","hypothesis":"Her father felt her forehead.","asks-for":"effect","hard_label":1}
+{"UID":98,"original_id":729,"premise":"The girl made a mistake on her exam.","hypothesis":"She erased her answer.","asks-for":"effect","hard_label":1}
+{"UID":113,"original_id":727,"premise":"The husband discovered that his wife was having an affair.","hypothesis":"He fired his lawyer.","asks-for":"effect","hard_label":0}
+{"UID":120,"original_id":870,"premise":"The lights in my friend's apartment were on.","hypothesis":"I decided to pay him a visit.","asks-for":"effect","hard_label":1}
+{"UID":124,"original_id":856,"premise":"The man ate the ice cream in the sun.","hypothesis":"The ice cream dripped from the cone.","asks-for":"effect","hard_label":1}
+{"UID":125,"original_id":856,"premise":"The man ate the ice cream in the sun.","hypothesis":"The ice cream lost its flavor.","asks-for":"effect","hard_label":0}
+{"UID":129,"original_id":512,"premise":"The man hit his head.","hypothesis":"He got lost in thought.","asks-for":"effect","hard_label":0}
+{"UID":130,"original_id":655,"premise":"The man hurt his back.","hypothesis":"He stayed in bed for several days.","asks-for":"effect","hard_label":1}
+{"UID":143,"original_id":514,"premise":"The man's email inbox was full of spam.","hypothesis":"He sent out a mass email.","asks-for":"effect","hard_label":0}
+{"UID":146,"original_id":787,"premise":"The nation endured a natural disaster.","hypothesis":"Leaders of other countries formed an alliance.","asks-for":"effect","hard_label":0}
+{"UID":171,"original_id":643,"premise":"The scratch in my skin was deep.","hypothesis":"It left a scar.","asks-for":"effect","hard_label":1}
+{"UID":182,"original_id":998,"premise":"The traveler walked on the shaky suspension bridge.","hypothesis":"He felt ecstatic.","asks-for":"effect","hard_label":0}
+{"UID":186,"original_id":704,"premise":"The truck collided with the car.","hypothesis":"The car got smashed.","asks-for":"effect","hard_label":1}
+{"UID":205,"original_id":975,"premise":"The woman was staring at me.","hypothesis":"I hugged her.","asks-for":"effect","hard_label":0}
+{"UID":208,"original_id":541,"premise":"They travelers checked into their hotel room.","hypothesis":"They unpacked their suitcases.","asks-for":"effect","hard_label":1}
+{"UID":209,"original_id":541,"premise":"They travelers checked into their hotel room.","hypothesis":"They went to the airport.","asks-for":"effect","hard_label":0}

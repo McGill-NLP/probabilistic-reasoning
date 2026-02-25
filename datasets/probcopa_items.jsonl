@@ -1,0 +1,210 @@
+{"UID":0,"original_id":811,"premise":"A drought occurred in the region.","hypothesis":"The crops perished.","asks-for":"effect","hard_label":1}
+{"UID":1,"original_id":811,"premise":"A drought occurred in the region.","hypothesis":"The water became contaminated.","asks-for":"effect","hard_label":0}
+{"UID":2,"original_id":601,"premise":"A tree fell on the power line.","hypothesis":"The electricity in the neighborhood went out.","asks-for":"effect","hard_label":1}
+{"UID":3,"original_id":601,"premise":"A tree fell on the power line.","hypothesis":"The forecast predicted heavy winds.","asks-for":"effect","hard_label":0}
+{"UID":4,"original_id":853,"premise":"I became enthralled in the book.","hypothesis":"I lost track of time.","asks-for":"effect","hard_label":1}
+{"UID":5,"original_id":853,"premise":"I became enthralled in the book.","hypothesis":"I returned the book.","asks-for":"effect","hard_label":0}
+{"UID":6,"original_id":967,"premise":"I bit into a slice of watermelon.","hypothesis":"I accidentally chipped my tooth.","asks-for":"effect","hard_label":0}
+{"UID":7,"original_id":967,"premise":"I bit into a slice of watermelon.","hypothesis":"I accidentally swallowed a seed.","asks-for":"effect","hard_label":1}
+{"UID":8,"original_id":542,"premise":"I bit into the peach.","hypothesis":"Juice spilled out.","asks-for":"effect","hard_label":1}
+{"UID":9,"original_id":542,"premise":"I bit into the peach.","hypothesis":"The peach bruised.","asks-for":"effect","hard_label":0}
+{"UID":10,"original_id":662,"premise":"I encountered an old friend.","hypothesis":"I gave him a hug.","asks-for":"effect","hard_label":1}
+{"UID":11,"original_id":662,"premise":"I encountered an old friend.","hypothesis":"I revealed a secret to him.","asks-for":"effect","hard_label":0}
+{"UID":12,"original_id":576,"premise":"I entered my combination on the lock.","hypothesis":"I shut the lock.","asks-for":"effect","hard_label":0}
+{"UID":13,"original_id":576,"premise":"I entered my combination on the lock.","hypothesis":"The lock popped open.","asks-for":"effect","hard_label":1}
+{"UID":14,"original_id":993,"premise":"I had to wait in line.","hypothesis":"I skimmed a magazine.","asks-for":"effect","hard_label":1}
+{"UID":15,"original_id":993,"premise":"I had to wait in line.","hypothesis":"I took a seat.","asks-for":"effect","hard_label":0}
+{"UID":16,"original_id":667,"premise":"I hung the wet linen on the outdoor clothesline.","hypothesis":"The linen dried.","asks-for":"effect","hard_label":1}
+{"UID":17,"original_id":667,"premise":"I hung the wet linen on the outdoor clothesline.","hypothesis":"The linen stained.","asks-for":"effect","hard_label":0}
+{"UID":18,"original_id":658,"premise":"I knocked on my neighbor's door.","hypothesis":"My neighbor invited me in.","asks-for":"effect","hard_label":1}
+{"UID":19,"original_id":658,"premise":"I knocked on my neighbor's door.","hypothesis":"My neighbor left her house.","asks-for":"effect","hard_label":0}
+{"UID":20,"original_id":866,"premise":"I looked into the sun.","hypothesis":"The sun blinded me.","asks-for":"effect","hard_label":1}
+{"UID":21,"original_id":866,"premise":"I looked into the sun.","hypothesis":"The sun tanned my skin.","asks-for":"effect","hard_label":0}
+{"UID":22,"original_id":737,"premise":"I polished the stone.","hypothesis":"It became shiny.","asks-for":"effect","hard_label":1}
+{"UID":23,"original_id":737,"premise":"I polished the stone.","hypothesis":"It became slippery.","asks-for":"effect","hard_label":0}
+{"UID":24,"original_id":517,"premise":"I poured the water into the glass.","hypothesis":"The glass became full.","asks-for":"effect","hard_label":1}
+{"UID":25,"original_id":517,"premise":"I poured the water into the glass.","hypothesis":"The water quenched my thirst.","asks-for":"effect","hard_label":0}
+{"UID":26,"original_id":603,"premise":"I pricked myself with the pin.","hypothesis":"A bead of sweat dripped from my face.","asks-for":"effect","hard_label":0}
+{"UID":27,"original_id":603,"premise":"I pricked myself with the pin.","hypothesis":"A drop of blood formed on my finger.","asks-for":"effect","hard_label":1}
+{"UID":28,"original_id":583,"premise":"I pulled the drain plug in the bathtub.","hypothesis":"The water drained out of the tub.","asks-for":"effect","hard_label":1}
+{"UID":29,"original_id":583,"premise":"I pulled the drain plug in the bathtub.","hypothesis":"The water splashed onto the floor.","asks-for":"effect","hard_label":0}
+{"UID":30,"original_id":544,"premise":"I pushed the door.","hypothesis":"The door locked.","asks-for":"effect","hard_label":0}
+{"UID":31,"original_id":544,"premise":"I pushed the door.","hypothesis":"The door opened.","asks-for":"effect","hard_label":1}
+{"UID":32,"original_id":884,"premise":"I set the paper towel on the spill.","hypothesis":"The spill left a sticky residue.","asks-for":"effect","hard_label":0}
+{"UID":33,"original_id":884,"premise":"I set the paper towel on the spill.","hypothesis":"The towel absorbed the liquid.","asks-for":"effect","hard_label":1}
+{"UID":34,"original_id":905,"premise":"I slept through my alarm.","hypothesis":"I made breakfast.","asks-for":"effect","hard_label":0}
+{"UID":35,"original_id":905,"premise":"I slept through my alarm.","hypothesis":"I missed breakfast.","asks-for":"effect","hard_label":1}
+{"UID":36,"original_id":938,"premise":"I squeezed the lemon wedge.","hypothesis":"The lemon got moldy.","asks-for":"effect","hard_label":0}
+{"UID":37,"original_id":938,"premise":"I squeezed the lemon wedge.","hypothesis":"The lemon squirted.","asks-for":"effect","hard_label":1}
+{"UID":38,"original_id":997,"premise":"I thought carefully about the problem.","hypothesis":"I asked for advice.","asks-for":"effect","hard_label":0}
+{"UID":39,"original_id":997,"premise":"I thought carefully about the problem.","hypothesis":"I came up with a solution.","asks-for":"effect","hard_label":1}
+{"UID":40,"original_id":581,"premise":"I turned on the fan.","hypothesis":"I felt cool air pass over me.","asks-for":"effect","hard_label":1}
+{"UID":41,"original_id":581,"premise":"I turned on the fan.","hypothesis":"Water sprinkled onto my skin.","asks-for":"effect","hard_label":0}
+{"UID":42,"original_id":784,"premise":"I was furious.","hypothesis":"I checked the mailbox upon leaving the house.","asks-for":"effect","hard_label":0}
+{"UID":43,"original_id":784,"premise":"I was furious.","hypothesis":"I slammed the door upon leaving the house.","asks-for":"effect","hard_label":1}
+{"UID":44,"original_id":674,"premise":"It began to rain.","hypothesis":"The driver shifted the car into reverse.","asks-for":"effect","hard_label":0}
+{"UID":45,"original_id":674,"premise":"It began to rain.","hypothesis":"The driver turned on the headlights.","asks-for":"effect","hard_label":1}
+{"UID":46,"original_id":503,"premise":"Termites invaded the house.","hypothesis":"The termites ate through the wood in the house.","asks-for":"effect","hard_label":1}
+{"UID":47,"original_id":503,"premise":"Termites invaded the house.","hypothesis":"The termites disappeared from the house.","asks-for":"effect","hard_label":0}
+{"UID":48,"original_id":519,"premise":"The accident was my fault.","hypothesis":"I felt guilty.","asks-for":"effect","hard_label":1}
+{"UID":49,"original_id":519,"premise":"The accident was my fault.","hypothesis":"I pressed charges.","asks-for":"effect","hard_label":0}
+{"UID":50,"original_id":562,"premise":"The accountant mismanaged the company's funds.","hypothesis":"She was fired from her position.","asks-for":"effect","hard_label":1}
+{"UID":51,"original_id":562,"premise":"The accountant mismanaged the company's funds.","hypothesis":"She went on maternity leave.","asks-for":"effect","hard_label":0}
+{"UID":52,"original_id":928,"premise":"The air conditioner in the house broke.","hypothesis":"I brought out blankets.","asks-for":"effect","hard_label":0}
+{"UID":53,"original_id":928,"premise":"The air conditioner in the house broke.","hypothesis":"I opened the windows.","asks-for":"effect","hard_label":1}
+{"UID":54,"original_id":803,"premise":"The artist mixed yellow paint into blue paint.","hypothesis":"The paint splattered everywhere.","asks-for":"effect","hard_label":0}
+{"UID":55,"original_id":803,"premise":"The artist mixed yellow paint into blue paint.","hypothesis":"The paint turned green.","asks-for":"effect","hard_label":1}
+{"UID":56,"original_id":509,"premise":"The band played their hit song.","hypothesis":"The audience clapped along to the music.","asks-for":"effect","hard_label":1}
+{"UID":57,"original_id":509,"premise":"The band played their hit song.","hypothesis":"The audience politely listened in silence.","asks-for":"effect","hard_label":0}
+{"UID":58,"original_id":558,"premise":"The bathroom sink was clogged.","hypothesis":"I poured drain cleaner into it.","asks-for":"effect","hard_label":1}
+{"UID":59,"original_id":558,"premise":"The bathroom sink was clogged.","hypothesis":"I turned on the faucet.","asks-for":"effect","hard_label":0}
+{"UID":60,"original_id":876,"premise":"The bird flapped its wings.","hypothesis":"It ascended upwards.","asks-for":"effect","hard_label":1}
+{"UID":61,"original_id":876,"premise":"The bird flapped its wings.","hypothesis":"It laid eggs.","asks-for":"effect","hard_label":0}
+{"UID":62,"original_id":540,"premise":"The boy squeezed the balloon.","hypothesis":"The balloon flew away.","asks-for":"effect","hard_label":0}
+{"UID":63,"original_id":540,"premise":"The boy squeezed the balloon.","hypothesis":"The balloon popped.","asks-for":"effect","hard_label":1}
+{"UID":64,"original_id":961,"premise":"The boy studied all night.","hypothesis":"He passed the exam.","asks-for":"effect","hard_label":1}
+{"UID":65,"original_id":961,"premise":"The boy studied all night.","hypothesis":"He skipped the exam.","asks-for":"effect","hard_label":0}
+{"UID":66,"original_id":554,"premise":"The boy was in a mischievous mood.","hypothesis":"He decided to play a card game with his sister.","asks-for":"effect","hard_label":0}
+{"UID":67,"original_id":554,"premise":"The boy was in a mischievous mood.","hypothesis":"He decided to play a practical joke on his sister.","asks-for":"effect","hard_label":1}
+{"UID":68,"original_id":590,"premise":"The boy was lost in the woods.","hypothesis":"He pitched a tent.","asks-for":"effect","hard_label":0}
+{"UID":69,"original_id":590,"premise":"The boy was lost in the woods.","hypothesis":"He screamed for help.","asks-for":"effect","hard_label":1}
+{"UID":70,"original_id":768,"premise":"The businessman's credit card got declined.","hypothesis":"He paid with cash.","asks-for":"effect","hard_label":1}
+{"UID":71,"original_id":768,"premise":"The businessman's credit card got declined.","hypothesis":"He wrote an IOU.","asks-for":"effect","hard_label":0}
+{"UID":72,"original_id":812,"premise":"The cat chased the bird.","hypothesis":"The bird caught a worm.","asks-for":"effect","hard_label":0}
+{"UID":73,"original_id":812,"premise":"The cat chased the bird.","hypothesis":"The bird flew away.","asks-for":"effect","hard_label":1}
+{"UID":74,"original_id":782,"premise":"The charity made a goal to raise money.","hypothesis":"They fed the homeless.","asks-for":"effect","hard_label":0}
+{"UID":75,"original_id":782,"premise":"The charity made a goal to raise money.","hypothesis":"They held an auction.","asks-for":"effect","hard_label":1}
+{"UID":76,"original_id":555,"premise":"The child complained that he had to go to the bathroom.","hypothesis":"His father gave him a soda to drink.","asks-for":"effect","hard_label":0}
+{"UID":77,"original_id":555,"premise":"The child complained that he had to go to the bathroom.","hypothesis":"His father stopped the car at a gas station.","asks-for":"effect","hard_label":1}
+{"UID":78,"original_id":823,"premise":"The child landed on the trampoline.","hypothesis":"She decided to try to do a flip.","asks-for":"effect","hard_label":0}
+{"UID":79,"original_id":823,"premise":"The child landed on the trampoline.","hypothesis":"She sprung back up into the air.","asks-for":"effect","hard_label":1}
+{"UID":80,"original_id":623,"premise":"The country declared war on the neighboring territory.","hypothesis":"Soldiers were reunited with their families.","asks-for":"effect","hard_label":0}
+{"UID":81,"original_id":623,"premise":"The country declared war on the neighboring territory.","hypothesis":"Soldiers were sent out to fight.","asks-for":"effect","hard_label":1}
+{"UID":82,"original_id":914,"premise":"The criminal ran away from the police.","hypothesis":"The police attended to the victim.","asks-for":"effect","hard_label":0}
+{"UID":83,"original_id":914,"premise":"The criminal ran away from the police.","hypothesis":"The police chased the criminal.","asks-for":"effect","hard_label":1}
+{"UID":84,"original_id":883,"premise":"The dip tasted bland.","hypothesis":"I put salt in it.","asks-for":"effect","hard_label":1}
+{"UID":85,"original_id":883,"premise":"The dip tasted bland.","hypothesis":"I served it.","asks-for":"effect","hard_label":0}
+{"UID":86,"original_id":948,"premise":"The dog eyed the juicy steak on the table.","hypothesis":"It drooled.","asks-for":"effect","hard_label":1}
+{"UID":87,"original_id":948,"premise":"The dog eyed the juicy steak on the table.","hypothesis":"It laid down.","asks-for":"effect","hard_label":0}
+{"UID":88,"original_id":814,"premise":"The factory owner refused to raise employees' wages.","hypothesis":"The employees went on strike.","asks-for":"effect","hard_label":1}
+{"UID":89,"original_id":814,"premise":"The factory owner refused to raise employees' wages.","hypothesis":"The owner appointed a new manager.","asks-for":"effect","hard_label":0}
+{"UID":90,"original_id":942,"premise":"The father caught his son lying.","hypothesis":"His son confessed the truth.","asks-for":"effect","hard_label":1}
+{"UID":91,"original_id":942,"premise":"The father caught his son lying.","hypothesis":"The father trusted his son.","asks-for":"effect","hard_label":0}
+{"UID":92,"original_id":728,"premise":"The girl dropped the rubber ball.","hypothesis":"The ball bounced.","asks-for":"effect","hard_label":1}
+{"UID":93,"original_id":728,"premise":"The girl dropped the rubber ball.","hypothesis":"The ball glowed.","asks-for":"effect","hard_label":0}
+{"UID":94,"original_id":749,"premise":"The girl flashed a smile.","hypothesis":"Her cheeks reddened.","asks-for":"effect","hard_label":0}
+{"UID":95,"original_id":749,"premise":"The girl flashed a smile.","hypothesis":"Her dimples showed.","asks-for":"effect","hard_label":1}
+{"UID":96,"original_id":979,"premise":"The girl looked pale.","hypothesis":"Her father felt her forehead.","asks-for":"effect","hard_label":1}
+{"UID":97,"original_id":979,"premise":"The girl looked pale.","hypothesis":"Her father read her a story.","asks-for":"effect","hard_label":0}
+{"UID":98,"original_id":729,"premise":"The girl made a mistake on her exam.","hypothesis":"She erased her answer.","asks-for":"effect","hard_label":1}
+{"UID":99,"original_id":729,"premise":"The girl made a mistake on her exam.","hypothesis":"She guessed at the answer.","asks-for":"effect","hard_label":0}
+{"UID":100,"original_id":710,"premise":"The girl squeezed the tube of toothpaste.","hypothesis":"The girl spit out the toothpaste.","asks-for":"effect","hard_label":0}
+{"UID":101,"original_id":710,"premise":"The girl squeezed the tube of toothpaste.","hypothesis":"The toothpaste squirted out of the tube.","asks-for":"effect","hard_label":1}
+{"UID":102,"original_id":510,"premise":"The girl wanted to thank her math teacher.","hypothesis":"The girl brought the teacher an apple.","asks-for":"effect","hard_label":1}
+{"UID":103,"original_id":510,"premise":"The girl wanted to thank her math teacher.","hypothesis":"The girl stayed after school for detention.","asks-for":"effect","hard_label":0}
+{"UID":104,"original_id":822,"premise":"The girl whispered back and forth to each other at the lunch table.","hypothesis":"Other students at the lunch table felt left out.","asks-for":"effect","hard_label":1}
+{"UID":105,"original_id":822,"premise":"The girl whispered back and forth to each other at the lunch table.","hypothesis":"Other students sat down at the lunch table.","asks-for":"effect","hard_label":0}
+{"UID":106,"original_id":940,"premise":"The glass toppled off the table.","hypothesis":"It landed in a pile of laundry.","asks-for":"effect","hard_label":0}
+{"UID":107,"original_id":940,"premise":"The glass toppled off the table.","hypothesis":"It shattered all over the floor.","asks-for":"effect","hard_label":1}
+{"UID":108,"original_id":692,"premise":"The heavyset man decided to lose weight.","hypothesis":"He avoided caffeine.","asks-for":"effect","hard_label":0}
+{"UID":109,"original_id":692,"premise":"The heavyset man decided to lose weight.","hypothesis":"He cut out sweets.","asks-for":"effect","hard_label":1}
+{"UID":110,"original_id":936,"premise":"The hiker encountered a poisonous snake.","hypothesis":"She became dehydrated.","asks-for":"effect","hard_label":0}
+{"UID":111,"original_id":936,"premise":"The hiker encountered a poisonous snake.","hypothesis":"She panicked.","asks-for":"effect","hard_label":1}
+{"UID":112,"original_id":727,"premise":"The husband discovered that his wife was having an affair.","hypothesis":"He filed for divorce.","asks-for":"effect","hard_label":1}
+{"UID":113,"original_id":727,"premise":"The husband discovered that his wife was having an affair.","hypothesis":"He fired his lawyer.","asks-for":"effect","hard_label":0}
+{"UID":114,"original_id":864,"premise":"The immigrants were caught illegally residing in the country.","hypothesis":"They found employment.","asks-for":"effect","hard_label":0}
+{"UID":115,"original_id":864,"premise":"The immigrants were caught illegally residing in the country.","hypothesis":"They were deported.","asks-for":"effect","hard_label":1}
+{"UID":116,"original_id":579,"premise":"The kayakers paddled their oars.","hypothesis":"The kayak hit a wave.","asks-for":"effect","hard_label":0}
+{"UID":117,"original_id":579,"premise":"The kayakers paddled their oars.","hypothesis":"The kayak reached the shore.","asks-for":"effect","hard_label":1}
+{"UID":118,"original_id":815,"premise":"The leader antagonized the extremists among his country.","hypothesis":"The extremists assassinated him.","asks-for":"effect","hard_label":1}
+{"UID":119,"original_id":815,"premise":"The leader antagonized the extremists among his country.","hypothesis":"The extremists influenced him.","asks-for":"effect","hard_label":0}
+{"UID":120,"original_id":870,"premise":"The lights in my friend's apartment were on.","hypothesis":"I decided to pay him a visit.","asks-for":"effect","hard_label":1}
+{"UID":121,"original_id":870,"premise":"The lights in my friend's apartment were on.","hypothesis":"I wondered if he was out.","asks-for":"effect","hard_label":0}
+{"UID":122,"original_id":999,"premise":"The man anticipated the team's victory.","hypothesis":"He made a bet with his friends.","asks-for":"effect","hard_label":1}
+{"UID":123,"original_id":999,"premise":"The man anticipated the team's victory.","hypothesis":"He met his friends to watch the game.","asks-for":"effect","hard_label":0}
+{"UID":124,"original_id":856,"premise":"The man ate the ice cream in the sun.","hypothesis":"The ice cream dripped from the cone.","asks-for":"effect","hard_label":1}
+{"UID":125,"original_id":856,"premise":"The man ate the ice cream in the sun.","hypothesis":"The ice cream lost its flavor.","asks-for":"effect","hard_label":0}
+{"UID":126,"original_id":723,"premise":"The man extended his hand to me.","hypothesis":"I shook his hand.","asks-for":"effect","hard_label":1}
+{"UID":127,"original_id":723,"premise":"The man extended his hand to me.","hypothesis":"I slapped him.","asks-for":"effect","hard_label":0}
+{"UID":128,"original_id":512,"premise":"The man hit his head.","hypothesis":"He got a concussion.","asks-for":"effect","hard_label":1}
+{"UID":129,"original_id":512,"premise":"The man hit his head.","hypothesis":"He got lost in thought.","asks-for":"effect","hard_label":0}
+{"UID":130,"original_id":655,"premise":"The man hurt his back.","hypothesis":"He stayed in bed for several days.","asks-for":"effect","hard_label":1}
+{"UID":131,"original_id":655,"premise":"The man hurt his back.","hypothesis":"He went to see a psychiatrist.","asks-for":"effect","hard_label":0}
+{"UID":132,"original_id":918,"premise":"The man obtained a degree.","hypothesis":"He became qualified for the job he wanted.","asks-for":"effect","hard_label":1}
+{"UID":133,"original_id":918,"premise":"The man obtained a degree.","hypothesis":"His job offer was rescinded.","asks-for":"effect","hard_label":0}
+{"UID":134,"original_id":838,"premise":"The man quit smoking.","hypothesis":"He began exercising more.","asks-for":"effect","hard_label":1}
+{"UID":135,"original_id":838,"premise":"The man quit smoking.","hypothesis":"He started waking up earlier.","asks-for":"effect","hard_label":0}
+{"UID":136,"original_id":739,"premise":"The man shuffled through the papers.","hypothesis":"He got a paper cut.","asks-for":"effect","hard_label":1}
+{"UID":137,"original_id":739,"premise":"The man shuffled through the papers.","hypothesis":"He shredded the papers.","asks-for":"effect","hard_label":0}
+{"UID":138,"original_id":709,"premise":"The man stained his suit.","hypothesis":"He got it dry-cleaned.","asks-for":"effect","hard_label":1}
+{"UID":139,"original_id":709,"premise":"The man stained his suit.","hypothesis":"He hung it in his closet.","asks-for":"effect","hard_label":0}
+{"UID":140,"original_id":994,"premise":"The man swatted at the fly.","hypothesis":"The fly buzzed away.","asks-for":"effect","hard_label":1}
+{"UID":141,"original_id":994,"premise":"The man swatted at the fly.","hypothesis":"The fly stayed still.","asks-for":"effect","hard_label":0}
+{"UID":142,"original_id":514,"premise":"The man's email inbox was full of spam.","hypothesis":"He deleted the spam.","asks-for":"effect","hard_label":1}
+{"UID":143,"original_id":514,"premise":"The man's email inbox was full of spam.","hypothesis":"He sent out a mass email.","asks-for":"effect","hard_label":0}
+{"UID":144,"original_id":638,"premise":"The man's girlfriend broke up with him.","hypothesis":"He begged her to take him back.","asks-for":"effect","hard_label":1}
+{"UID":145,"original_id":638,"premise":"The man's girlfriend broke up with him.","hypothesis":"She introduced him to her parents.","asks-for":"effect","hard_label":0}
+{"UID":146,"original_id":787,"premise":"The nation endured a natural disaster.","hypothesis":"Leaders of other countries formed an alliance.","asks-for":"effect","hard_label":0}
+{"UID":147,"original_id":787,"premise":"The nation endured a natural disaster.","hypothesis":"Leaders of other countries sent emergency relief.","asks-for":"effect","hard_label":1}
+{"UID":148,"original_id":988,"premise":"The parents wanted their children to go to college.","hypothesis":"They encouraged their children to play outside.","asks-for":"effect","hard_label":0}
+{"UID":149,"original_id":988,"premise":"The parents wanted their children to go to college.","hypothesis":"They set aside a savings fund for tuition.","asks-for":"effect","hard_label":1}
+{"UID":150,"original_id":675,"premise":"The parking lot of the building was empty.","hypothesis":"I parked across the street.","asks-for":"effect","hard_label":0}
+{"UID":151,"original_id":675,"premise":"The parking lot of the building was empty.","hypothesis":"I parked near the entrance.","asks-for":"effect","hard_label":1}
+{"UID":152,"original_id":980,"premise":"The pen ran out of ink.","hypothesis":"I signed my name.","asks-for":"effect","hard_label":0}
+{"UID":153,"original_id":980,"premise":"The pen ran out of ink.","hypothesis":"I used a pencil.","asks-for":"effect","hard_label":1}
+{"UID":154,"original_id":974,"premise":"The phone rang.","hypothesis":"The man hung up the phone.","asks-for":"effect","hard_label":0}
+{"UID":155,"original_id":974,"premise":"The phone rang.","hypothesis":"The man picked up the phone.","asks-for":"effect","hard_label":1}
+{"UID":156,"original_id":684,"premise":"The photographer forgot to use the flash on the camera.","hypothesis":"Everyone in the photos refused to smile.","asks-for":"effect","hard_label":0}
+{"UID":157,"original_id":684,"premise":"The photographer forgot to use the flash on the camera.","hypothesis":"The photos turned out blurry.","asks-for":"effect","hard_label":1}
+{"UID":158,"original_id":552,"premise":"The pilot's radar detected a storm.","hypothesis":"The pilot flew through the storm.","asks-for":"effect","hard_label":0}
+{"UID":159,"original_id":552,"premise":"The pilot's radar detected a storm.","hypothesis":"The pilot navigated away from the storm.","asks-for":"effect","hard_label":1}
+{"UID":160,"original_id":886,"premise":"The plane hit some turbulence.","hypothesis":"The man looked out the window.","asks-for":"effect","hard_label":0}
+{"UID":161,"original_id":886,"premise":"The plane hit some turbulence.","hypothesis":"The man tightened his seatbelt.","asks-for":"effect","hard_label":1}
+{"UID":162,"original_id":526,"premise":"The player won five games in a row.","hypothesis":"Her opponent accused her of cheating.","asks-for":"effect","hard_label":1}
+{"UID":163,"original_id":526,"premise":"The player won five games in a row.","hypothesis":"Her opponent felt sorry for her.","asks-for":"effect","hard_label":0}
+{"UID":164,"original_id":715,"premise":"The prisoner starved.","hypothesis":"He died.","asks-for":"effect","hard_label":1}
+{"UID":165,"original_id":715,"premise":"The prisoner starved.","hypothesis":"He fled.","asks-for":"effect","hard_label":0}
+{"UID":166,"original_id":906,"premise":"The public figure got out of the limousine.","hypothesis":"Cameras flashed in his direction.","asks-for":"effect","hard_label":1}
+{"UID":167,"original_id":906,"premise":"The public figure got out of the limousine.","hypothesis":"His family attended the press conference.","asks-for":"effect","hard_label":0}
+{"UID":168,"original_id":865,"premise":"The public speaker cracked a joke.","hypothesis":"The audience laughed.","asks-for":"effect","hard_label":1}
+{"UID":169,"original_id":865,"premise":"The public speaker cracked a joke.","hypothesis":"The audience stood up.","asks-for":"effect","hard_label":0}
+{"UID":170,"original_id":643,"premise":"The scratch in my skin was deep.","hypothesis":"It healed quickly.","asks-for":"effect","hard_label":0}
+{"UID":171,"original_id":643,"premise":"The scratch in my skin was deep.","hypothesis":"It left a scar.","asks-for":"effect","hard_label":1}
+{"UID":172,"original_id":882,"premise":"The stadium played the national anthem.","hypothesis":"The fans rushed the field.","asks-for":"effect","hard_label":0}
+{"UID":173,"original_id":882,"premise":"The stadium played the national anthem.","hypothesis":"The fans turned to the flag.","asks-for":"effect","hard_label":1}
+{"UID":174,"original_id":681,"premise":"The student tried to do the math in his head.","hypothesis":"He got confused.","asks-for":"effect","hard_label":1}
+{"UID":175,"original_id":681,"premise":"The student tried to do the math in his head.","hypothesis":"He got out a calculator.","asks-for":"effect","hard_label":0}
+{"UID":176,"original_id":705,"premise":"The team rigged the contest in their favor.","hypothesis":" They dropped out.","asks-for":"effect","hard_label":0}
+{"UID":177,"original_id":705,"premise":"The team rigged the contest in their favor.","hypothesis":"They won.","asks-for":"effect","hard_label":1}
+{"UID":178,"original_id":978,"premise":"The tire on my bike was flat.","hypothesis":"I pumped air into the tire.","asks-for":"effect","hard_label":1}
+{"UID":179,"original_id":978,"premise":"The tire on my bike was flat.","hypothesis":"I switched gears on the bike.","asks-for":"effect","hard_label":0}
+{"UID":180,"original_id":958,"premise":"The traffic light turned yellow.","hypothesis":"The driver honked his horn.","asks-for":"effect","hard_label":0}
+{"UID":181,"original_id":958,"premise":"The traffic light turned yellow.","hypothesis":"The driver pushed the brake.","asks-for":"effect","hard_label":1}
+{"UID":182,"original_id":998,"premise":"The traveler walked on the shaky suspension bridge.","hypothesis":"He felt ecstatic.","asks-for":"effect","hard_label":0}
+{"UID":183,"original_id":998,"premise":"The traveler walked on the shaky suspension bridge.","hypothesis":"He felt terrified.","asks-for":"effect","hard_label":1}
+{"UID":184,"original_id":504,"premise":"The travelers reached the border.","hypothesis":"The patrol agent accused them of smuggling.","asks-for":"effect","hard_label":0}
+{"UID":185,"original_id":504,"premise":"The travelers reached the border.","hypothesis":"The patrol agent checked their passports.","asks-for":"effect","hard_label":1}
+{"UID":186,"original_id":704,"premise":"The truck collided with the car.","hypothesis":"The car got smashed.","asks-for":"effect","hard_label":1}
+{"UID":187,"original_id":704,"premise":"The truck collided with the car.","hypothesis":"The truck sped up.","asks-for":"effect","hard_label":0}
+{"UID":188,"original_id":639,"premise":"The two children simultaneously reached down to retrieve the ball.","hypothesis":"The ball rolled away.","asks-for":"effect","hard_label":0}
+{"UID":189,"original_id":639,"premise":"The two children simultaneously reached down to retrieve the ball.","hypothesis":"Their heads collided.","asks-for":"effect","hard_label":1}
+{"UID":190,"original_id":537,"premise":"The warring countries wanted peace.","hypothesis":"They developed nuclear weapons.","asks-for":"effect","hard_label":0}
+{"UID":191,"original_id":537,"premise":"The warring countries wanted peace.","hypothesis":"They negotiated a treaty.","asks-for":"effect","hard_label":1}
+{"UID":192,"original_id":902,"premise":"The wealthy man died of old age.","hypothesis":"His son got into legal trouble.","asks-for":"effect","hard_label":0}
+{"UID":193,"original_id":902,"premise":"The wealthy man died of old age.","hypothesis":"His son inherited his fortune.","asks-for":"effect","hard_label":1}
+{"UID":194,"original_id":522,"premise":"The woman decided to run for public office.","hypothesis":"She hired a campaign manager.","asks-for":"effect","hard_label":1}
+{"UID":195,"original_id":522,"premise":"The woman decided to run for public office.","hypothesis":"She testified in court.","asks-for":"effect","hard_label":0}
+{"UID":196,"original_id":839,"premise":"The woman punched her attacker in the nose.","hypothesis":"The attacker started to bleed.","asks-for":"effect","hard_label":1}
+{"UID":197,"original_id":839,"premise":"The woman punched her attacker in the nose.","hypothesis":"The attacker's body went lifeless.","asks-for":"effect","hard_label":0}
+{"UID":198,"original_id":901,"premise":"The woman set an ambitious goal.","hypothesis":"She slacked off.","asks-for":"effect","hard_label":0}
+{"UID":199,"original_id":901,"premise":"The woman set an ambitious goal.","hypothesis":"She worked hard.","asks-for":"effect","hard_label":1}
+{"UID":200,"original_id":885,"premise":"The woman was interrupted in the midst of reading her book.","hypothesis":"She bookmarked her page.","asks-for":"effect","hard_label":1}
+{"UID":201,"original_id":885,"premise":"The woman was interrupted in the midst of reading her book.","hypothesis":"She reread the book.","asks-for":"effect","hard_label":0}
+{"UID":202,"original_id":844,"premise":"The woman was short on money for rent.","hypothesis":"She quit her job.","asks-for":"effect","hard_label":0}
+{"UID":203,"original_id":844,"premise":"The woman was short on money for rent.","hypothesis":"She worked overtime.","asks-for":"effect","hard_label":1}
+{"UID":204,"original_id":975,"premise":"The woman was staring at me.","hypothesis":"I felt uncomfortable.","asks-for":"effect","hard_label":1}
+{"UID":205,"original_id":975,"premise":"The woman was staring at me.","hypothesis":"I hugged her.","asks-for":"effect","hard_label":0}
+{"UID":206,"original_id":753,"premise":"There was a lot of traffic on the highway.","hypothesis":"I asked for a ride.","asks-for":"effect","hard_label":0}
+{"UID":207,"original_id":753,"premise":"There was a lot of traffic on the highway.","hypothesis":"I took a detour.","asks-for":"effect","hard_label":1}
+{"UID":208,"original_id":541,"premise":"They travelers checked into their hotel room.","hypothesis":"They unpacked their suitcases.","asks-for":"effect","hard_label":1}
+{"UID":209,"original_id":541,"premise":"They travelers checked into their hotel room.","hypothesis":"They went to the airport.","asks-for":"effect","hard_label":0}

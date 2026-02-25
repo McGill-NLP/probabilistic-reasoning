@@ -1,0 +1,18 @@
+{"models":
+    {"x-ai/grok-4.1-fast": {"temperature": {"min": 0.0, "max": 2.0},
+    "reasoning_effort": "none"},
+    "gpt-5": {"temperature": "none",
+    "reasoning_effort": ["low", "medium", "high"]},
+    "Qwen/Qwen3-235B-A22B-Thinking-2507": {"temperature": {"min": 0.0, "max": 2.0},
+    "reasoning_effort": ["low", "medium", "high"]},
+    "moonshotai/Kimi-K2-Thinking": {"temperature": {"min": 0.0, "max": 2.0},
+    "reasoning_effort": ["low", "medium", "high"]},
+    "zai-org/GLM-4.6": {"temperature": {"min": 0.0, "max": 2.0},
+    "reasoning_effort": ["low", "medium", "high"]},
+    "deepseek-ai/DeepSeek-R1": {"temperature": {"min": 0.0, "max": 2.0},
+    "reasoning_effort": ["low", "medium", "high"]},
+    "gemini-3-pro-preview": {"temperature": {"min": 0.0, "max": 2.0},
+    "thinking_budget": [512, 2048, 4096]},
+    "claude-sonnet-4-5-20250929": {"temperature": "none",
+    "thinking_budget": [512, 2048, 4096]}}
+}
