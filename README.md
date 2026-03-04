@@ -4,7 +4,7 @@
 
 This repository contains code and data for the paper *Humans and LLMs Diverge on Probabilistic Inferences*.
 
-You can access the paper on ArXiV here: PLACEHOLDER: ADD LINK.
+You can access the paper on ArXiV here: https://arxiv.org/abs/2602.23546
 
 You can also explore the data and results with our interactive data visualizer here: https://grvkamath.github.io/probcopa-demo/index.html.
 
@@ -122,7 +122,13 @@ See the paper for complete results and analysis.
 If you use this dataset or code in your work, please cite:
 
 ```bibtex
-# PLACEHOLDER: FILL THIS IN
+@article{kamath-et-al-2026,
+  title={Humans and LLMs Diverge on Probabilistic Inferences},
+  author={Kamath, Gaurav and Madathil, Sreenath and Schuster, Sebastian and de Marneffe, Marie-Catherine and Reddy, Siva},
+  journal={arXiv preprint arXiv:2602.23546},
+  url={https://arxiv.org/abs/2602.23546},
+  year={2026}
+}
 ```
 
 ## License
